@@ -1,0 +1,64 @@
+.heding-cnt{
+    font-size: 20px;
+    background-color: linear-gradient(217deg, rgba(155, 101, 101, 0.8), rgba(76, 68, 68, 0) 70.71%),
+    linear-gradient(127deg, rgba(83, 156, 83, 0.8), rgba(0, 255, 0, 0) 70.71%),
+    linear-gradient(336deg, rgba(104, 169, 183, 0.8), rgba(113, 113, 164, 0)70.71%);
+    font-weight: bold;
+    /* filter: invert(100%); */
+    /* mix-blend-mode: color-burn; */
+}
+.heding-cnt p{
+    background-color: aliceblue;
+    background-image: linear-gradient(45deg ,rgba(216, 103, 103, 0.8) ,rgba(228, 104, 206, 0.826) );
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color:transparent;
+}
+
+.our-vision p , .facalities p{
+    padding: 10px 0 5px 0px;
+    text-align: justify;
+}
+
+.our-vision video{
+    width: 80vw;
+    height: auto;
+}
+
+section {
+    padding: 30px 13%;
+}
+
+.facaities-list ul li img{
+    width: 70vw;
+    height: auto;
+}
+
+.heding-cnt {
+   
+        padding: 80px 13% 20px 13%; 
+    
+}
+
+.facaities-list {
+    margin-top: 10px;
+}
+
+ .facaities-list ul li h1{
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+
+ }
+
+.facaities-list ul{
+    list-style-type: disc;
+ }
+
+#bullet{
+    font-size: 50px;
+    margin-right:10px; 
+}
